@@ -26,7 +26,6 @@ This is a Streamlit-based web application developed during my Python internship.
 ├── style/
 │ └── style.css # Custom styling for the contact form
 
-
 ---
 
 ## 🛠️ Technologies Used
